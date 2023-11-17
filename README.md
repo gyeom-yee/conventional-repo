@@ -27,7 +27,7 @@ There is no need to install
 
 - Object Detection
 
-![cat](https://media.tenor.com/BwArbEoCbncAAAAd/happy-dance-cat.gif)
+![image](https://github.com/gyeom-yee/conventional-repo/assets/78156719/0949c48e-8618-453b-bec0-07bafc37a339)
 
 - Object Labeling
 
