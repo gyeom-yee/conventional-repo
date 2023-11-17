@@ -2,7 +2,7 @@
 
 This is Abstract. See [Demo](https://www.google.com)
 
-git tutorial in bootcamp
+__git tutorial in bootcamp__
 
 ## Prerequisites
 
@@ -10,7 +10,7 @@ git tutorial in bootcamp
 - pandas 1.1.0
 - opencv 0.99.0
 
-# How to start
+## How to start
 
 ```shell
 $ git clone addr
