@@ -27,7 +27,7 @@ There is no need to install
 
 - Object Detection
 
-![image](https://github.com/gyeom-yee/conventional-repo/assets/78156719/0949c48e-8618-453b-bec0-07bafc37a339)
+![icegif-948](https://github.com/gyeom-yee/conventional-repo/assets/78156719/11165e70-8424-41fe-9f93-c76b352524a0)
 
 - Object Labeling
 
